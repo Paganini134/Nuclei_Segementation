@@ -1,7 +1,3 @@
-Below is a sample README file for your nuclei segmentation project using UNets. You can adjust any sections to better fit your project's specifics.
-
----
-
 # Nuclei Segmentation Using UNets
 
 This repository contains an implementation of nuclei segmentation using UNet architectures. The code demonstrates how to preprocess microscopy images, train a UNet model, and perform segmentation on nuclei images. The project is implemented in a Jupyter Notebook to facilitate easy experimentation and visualization.
@@ -66,6 +62,3 @@ This project is inspired by various works on biomedical image segmentation, incl
 
 This project is open-source and available under the [MIT License](LICENSE).
 
----
-
-Feel free to update the sections with more details or custom instructions specific to your project. Enjoy your work on nuclei segmentation using UNets!
