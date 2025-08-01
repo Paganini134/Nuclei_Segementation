@@ -26,7 +26,7 @@ pip install torch torchvision numpy matplotlib scikit-image tqdm
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your_username/nuclei-unet-segmentation.git
+   git clone https://github.com/Paganini134/nuclei-unet-segmentation.git
    cd nuclei-unet-segmentation
    ```
 
@@ -39,16 +39,6 @@ pip install torch torchvision numpy matplotlib scikit-image tqdm
 3. **Follow the notebook instructions:**
 
    The notebook is organized into several sections including data preprocessing, model definition, training, and evaluation. Execute each cell sequentially to run the complete segmentation pipeline.
-
-## Repository Structure
-
-```
-.
-├── Unet_Segmentation.ipynb  # Main notebook with UNet segmentation implementation
-├── README.md                # This documentation file
-├── data/                    # Directory containing sample microscopy images (if available)
-└── utils/                   # Utility scripts and helper functions (if applicable)
-```
 
 ## Results
 
